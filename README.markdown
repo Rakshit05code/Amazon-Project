@@ -1,8 +1,6 @@
-# 🌌 **AMAZON-FUTURE** 🚀
+# 🌌 **AMAZON-PROJECT** 🚀
 
 > *Reimagine e-commerce with a futuristic, immersive shopping experience powered by cutting-edge web technologies.*
-
-![Hero Image: Holographic shopping interface with neon-blue product displays and dynamic animations](assets/images/hero-banner.jpg)
 
 ---
 
@@ -14,6 +12,8 @@
 - **Web APIs**: DOM manipulation and localStorage for seamless state management 🗄️
 - **Responsive Design**: Adaptive, device-optimized UI for all screens 📱💻
 
+---
+![](https://www.indifi.com/blog/wp-content/uploads/2019/12/Marketing-Hacks-for-Customer-Attraction-on-Amazon.png)
 ---
 
 ## 🔗 **Table of Contents**
@@ -39,8 +39,8 @@
 
 > *Shop like it’s 2050—intuitive, immersive, and innovative.*
 
-![Feature Image: Dynamic product grid with glowing hover effects and neon accents](assets/images/product-grid.jpg)
-
+---
+![Feature Image: Dynamic product grid with glowing hover effects and neon accents](https://inmortaltechnologies.com/images/page/amazon.png)
 ---
 
 ## 🔥 **Features**
@@ -117,7 +117,8 @@
    live-server
    ```
 
-![Setup Image: VS Code with cyberpunk theme, showing live-server preview](assets/images/setup-screenshot.jpg)
+![](https://github.com/user-attachments/assets/6420bf84-5d13-4062-835a-38410f1eb6de)
+)
 
 ### 🤖 **Usage**
 
@@ -145,8 +146,6 @@
 - [ ] Introduce Jest unit tests for JavaScript logic
 - [ ] Deploy to Netlify or Vercel for global access
 
-![Roadmap Image: Neon-styled timeline with glowing milestones and futuristic markers](assets/images/roadmap-visual.jpg)
-
 ---
 
 ## 🤝 **Contribute**
@@ -172,6 +171,9 @@ Help shape the future of e-commerce! Contribute by:
    ```sh
    git push origin feature/your-feature-name
    ```
+---
+![](https://media.licdn.com/dms/image/v2/D5612AQFsGUrirGzzbA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1690820727506?e=2147483647&v=beta&t=Z-7prdd8QbfR94uaSLz8qNhnDjYHz1AENYfB1pHwbo4)
+
 
 - 💬 Join the [Discussions](https://github.com/Rakshit05code/Amazon-Future/discussions)
 - 🐞 Report bugs at [Issues](https://github.com/Rakshit05code/Amazon-Future/issues)
@@ -192,4 +194,4 @@ This project is licensed under the **[Apache 2.0 License](https://choosealicense
 - 📚 Special thanks to [MDN Web Docs](https://developer.mozilla.org/), [freeCodeCamp](https://www.freecodecamp.org/), and [W3Schools](https://www.w3schools.com/)
 - 🙌 Kudos to web development mentors and contributors driving innovation
 
-![Footer Image: Futuristic cityscape with glowing AMAZON-FUTURE logo in neon hues](assets/images/footer-banner.jpg)
+![](https://media.istockphoto.com/id/1314616897/photo/3d-render-abstract-urban-futuristic-background-cityscape-with-neon-light-starry-night-sky-and.jpg?s=612x612&w=0&k=20&c=8u9du7wZ_gwMt6beuW-QRhzts2U38oioiPH-ZDdXJwQ=)
